@@ -102,6 +102,7 @@ background-color: white;
    position: absolute;
    margin-bottom: 0%;
    bottom: 0px;  
+   background-color:white ;
 }
 .main-right-bottom p{
   padding: 0px 3rem 3rem 3rem;
@@ -282,6 +283,7 @@ background-color: white;
 
 
 }
+
 
 :root {
   --dur: 3s;
