@@ -1,14 +1,14 @@
 *{
     margin: 0px;
     font-family: 'Hind Siliguri', sans-serif;
-
+    
 
 }
 
    /* CSS for frame1 and frame2 */
 #fram1 {
   transition: transform 0.3s ease-in-out;
-background-color: white;
+
   background-color: white;
  
 }
